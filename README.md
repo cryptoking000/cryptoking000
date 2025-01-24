@@ -1,188 +1,107 @@
+# 👋 Hi, I'm Andy Blake!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&pause=1000&color=FFC606&vCenter=true&random=false&width=600&lines=Be+better+today+than+you+were+yesterday)](https://git.io/typing-svg)
+🚀 **Full-Stack & Blockchain Developer | AI Innovator**  
+🌐 [Portfolio](https://andyblake.vercel.app/) • 💌 [Email Me](mailto:andyblake1106@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/andy-blake-673a1133a/)  
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
-<br/>
+Welcome to my GitHub! I'm a **results-driven software engineer** with expertise in **blockchain development**, **AI solutions**, and **full-stack web applications**. With over 5 years of experience, I specialize in delivering **scalable**, **high-performance**, and **user-centric** solutions.
 
+---
 
-  
--  👩🏻‍💻 I am a Full stack developer and I am working to improve myself.     
-  
+## 🚀 About Me
 
-- 🎯 I like mobile programming and am also interested in algorithms.  
- 
- 
-- 💫  I like to develop projects in teamwork.  
+🎓 **Education**  
+- **Master’s in Computer Science** – Nagoya University, Japan (2017–2019)  
+- **Bachelor’s in Computer Science and Engineering** – Nagoya University, Japan (2013–2017)
 
-- 🦾  With a strong belief in the value of each day, I work diligently to become a better version of myself.
+💼 **Experience**  
+- **Cofounder & Full-Stack Developer @ IcestoneTech (2024–Present)**  
+  - Integrated advanced AI technologies with responsive user interfaces using **Next.js**, **React**, and **CSS**.
+  - Played a key role in building scalable e-commerce platforms, improving performance and user engagement.
+  - Enhanced functionality by integrating external APIs and services.
 
-<br/>  
- 
+- **Blockchain Developer @ Paxos (2022–Present)**  
+  - Developed and deployed secure **smart contracts** on Ethereum, adhering to industry standards.
+  - Boosted system scalability, increasing transaction throughput by 40%.
+  - Built user-friendly interfaces for transaction monitoring with **Redux** and third-party API integrations.
 
-<h2>My stack :man_technologist:</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-   <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-      <br>Nextjs
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-      <br>Nestjs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-            <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
-      <br>ReactNative
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" />
-      <br>Expressjs
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-      <br>Solidity
-    </td>
- </tr>
-</table>
-<br><br>
-</div>
+- **Full-Stack Developer @ Webparadox (2020–2022)**  
+  - Delivered high-quality software products using the **MERN stack** with pixel-perfect UI and multi-language support.
+  - Implemented CI/CD pipelines to optimize the software development process.
+  - Built backend systems with **Node.js**, **MongoDB**, and **GraphQL**.
+
+---
+
+## 🛠 Skills & Tools
+
+**Frameworks:**  
+- **Hardhat**, **Anchor**, **Truffle Suite**, **React/Next.js**, **Vue.js**, **Node.js**
+
+**Languages:**  
+- **Solidity**, **Rust**, **JavaScript/TypeScript**, **Python**, **Go**, **C++**, **Vyper**
+
+**Tools:**  
+- **AWS**, **Vercel**, **Remix IDE**, **Pinecone**, **Slither**
+
+**Soft Skills:**  
+- Communication, Leadership, Collaboration, Mentorship
+
+---
+
+## 🌟 Featured Projects
+
+### **1. Solana Arbitrage Bot**
+🚀 **[View Repository](https://github.com/cryptoking000/arbitrage-bot-for-solana)**  
+A cutting-edge arbitrage bot designed for the Solana blockchain to exploit price discrepancies across multiple decentralized exchanges (DEXs).  
+- **Technologies:** Rust, Solana, Anchor, Web3.js, TypeScript  
+- **Features:**  
+  - Efficiently scans and identifies profitable arbitrage opportunities in real-time.  
+  - Implements automated trading strategies for minimal latency and optimized profits.  
+  - Uses the Solana blockchain's fast transactions to achieve ultra-low latency execution.  
+
+---
+
+### **2. Arbitrage-bot-dex-Aurora**
+🚀 **[View Repository](https://github.com/cryptoking000/arbitrage-bot-dex-aurora)**  
+An arbitrage bot tailored for the Aurora blockchain, designed to facilitate seamless cross-DEX trades.  
+- **Technologies:** Solidity, Hardhat, Node.js, JavaScript  
+- **Features:**  
+  - Scans Aurora-based DEXs for arbitrage opportunities between token pairs.  
+  - Secure and efficient smart contract interactions for real-time execution.  
+  - Optimized performance for high-volume trading environments.  
+
+---
+### **3. MEV-Bot-Solana**
+🚀 **[View Repository](https://github.com/cryptoking000/mev-bot-solana)**  
+A highly efficient MEV (Maximal Extractable Value) bot built for the Solana blockchain to maximize profitability by prioritizing transaction execution.  
+- **Technologies:** Rust, Solana, Web3.js, Anchor  
+- **Features:**  
+  - Identifies and executes profitable MEV strategies on the Solana blockchain.  
+  - Leverages fast transaction processing to extract value from block execution.  
+  - Optimized for low-latency operations and high transaction throughput.  
+
+---
+
+### **4. Personal Portfolio**
+🚀 **[Visit Portfolio](https://andyblake.vercel.app/)**  
+Showcasing my professional work and expertise as a blockchain and full-stack developer.  
+- **Technologies:** React, Vercel, CSS Modules  
+- **Highlights:** Fast-loading, responsive design with detailed project displays.
 
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptoking000&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoking000&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect!
+- **Portfolio:** [andyblake.vercel.app](https://andyblake.vercel.app/)  
+- **GitHub:** [cryptoking000](https://github.com/cryptoking000)  
 
 
-<br/> 
+---
 
+✨ _"I’m passionate about creating innovative solutions that solve real-world problems and empower businesses."_  
