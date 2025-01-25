@@ -1,17 +1,13 @@
 # 👋 Hi, I'm Andy Blake!
 
 🚀 **Full-Stack & Blockchain Developer | AI Innovator**  
-🌐 [Portfolio](https://andyblake.vercel.app/) • 💌 [Email Me](mailto:andyblake1106@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/andy-blake-673a1133a/)  
+🌐 [Portfolio](https://andyblake.vercel.app/) • 💌 [Email Me](mailto:andyblake1106@gmail.com)
 
 Welcome to my GitHub! I'm a **results-driven software engineer** with expertise in **blockchain development**, **AI solutions**, and **full-stack web applications**. With over 5 years of experience, I specialize in delivering **scalable**, **high-performance**, and **user-centric** solutions.
 
 ---
 
 ## 🚀 About Me
-
-🎓 **Education**  
-- **Master’s in Computer Science** – Nagoya University, Japan (2017–2019)  
-- **Bachelor’s in Computer Science and Engineering** – Nagoya University, Japan (2013–2017)
 
 💼 **Experience**  
 - **Cofounder & Full-Stack Developer @ IcestoneTech (2024–Present)**  
@@ -90,12 +86,6 @@ Showcasing my professional work and expertise as a blockchain and full-stack dev
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptoking000&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoking000&layout=compact&theme=radical)
-
----
 
 ## 🌐 Let's Connect!
 - **Portfolio:** [andyblake.vercel.app](https://andyblake.vercel.app/)  
