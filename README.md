@@ -1,6 +1,4 @@
-Here's your updated GitHub README with the **Telegram Trading Insight Bot** added under the Featured Projects section:  
 
----
 
 # 👋 Hi, I'm Andy Blake!
 
