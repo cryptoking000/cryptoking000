@@ -96,7 +96,7 @@ A highly efficient MEV (Maximal Extractable Value) bot built for the Solana bloc
 
 
 ## 🌐 Let's Connect!  
-- **Portfolio:** [andyblake.vercel.app](https://andyblake.vercel.app/)  
+
 - **GitHub:** [cryptoking000](https://github.com/cryptoking000)  
 
 ---
