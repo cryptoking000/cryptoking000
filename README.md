@@ -1,9 +1,10 @@
 
 
-# 👋 Hi, I'm Andy Blake!
+# 👋 Hi!
 
 🚀 **Full-Stack & Blockchain Developer | AI Innovator**  
-🌐 [Portfolio](https://andyblake.vercel.app/) • 💌 [Email Me](mailto:andyblake1106@gmail.com)
+
+• 💌 [Email Me](mailto:andyblake1106@gmail.com)
 
 Welcome to my GitHub! I'm a **results-driven software engineer** with expertise in **blockchain development**, **AI solutions**, and **full-stack web applications**. With over 5 years of experience, I specialize in delivering **scalable**, **high-performance**, and **user-centric** solutions.
 
@@ -93,13 +94,6 @@ A highly efficient MEV (Maximal Extractable Value) bot built for the Solana bloc
 
 ---
 
-### **5. Personal Portfolio**  
-🚀 **[Visit Portfolio](https://andyblake.vercel.app/)**  
-Showcasing my professional work and expertise as a blockchain and full-stack developer.  
-- **Technologies:** React, Vercel, CSS Modules  
-- **Highlights:** Fast-loading, responsive design with detailed project displays.  
-
----
 
 ## 🌐 Let's Connect!  
 - **Portfolio:** [andyblake.vercel.app](https://andyblake.vercel.app/)  
