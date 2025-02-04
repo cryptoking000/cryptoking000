@@ -1,4 +1,3 @@
-Here's your improved GitHub README. Now, when users click on a project title, they will **both give a star** ⭐ and be directed to the project page.  
 
 ---
 
