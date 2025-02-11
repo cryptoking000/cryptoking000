@@ -6,7 +6,7 @@
 🚀 **Full-Stack & Blockchain Developer | AI Innovator**  
 
 • 💌 [Email Me](mailto:andyblake1106@gmail.com)  
-• 💬 **Telegram:** [@cryptoking1106](https://t.me/cryptoking11060)  
+• 💬 **Telegram:** [@cryptoking11060](https://t.me/cryptoking11060)  
 
 Welcome to my GitHub! I'm a **results-driven software engineer** with expertise in **blockchain development**, **AI solutions**, and **full-stack web applications**. With over 5 years of experience, I specialize in delivering **scalable**, **high-performance**, and **user-centric** solutions.  
 
@@ -66,7 +66,7 @@ If you find my projects useful, please consider:
 ## 🌐 Let's Connect!  
 
 - **GitHub:** [cryptoking000](https://github.com/cryptoking000)  
-- **Telegram:** [@cryptoking1106](https://t.me/cryptoking11060)  
+- **Telegram:** [@cryptoking11060](https://t.me/cryptoking11060)  
 
 ✨ _"Passionate about building innovative solutions that solve real-world problems."_ 🚀  
 
