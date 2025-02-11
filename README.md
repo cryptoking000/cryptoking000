@@ -12,12 +12,6 @@ Welcome to my GitHub! I'm a **results-driven software engineer** with expertise 
 
 ---
 
-## 🚀 About Me  
-
-💼 **Experience**  
-- **Cofounder & Full-Stack Developer @ IcestoneTech (2024–Present)**  
-- **Blockchain Developer @ Paxos (2022–Present)**  
-- **Full-Stack Developer @ Webparadox (2020–2022)**  
 
 ---
 
