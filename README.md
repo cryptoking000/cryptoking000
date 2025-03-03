@@ -25,25 +25,25 @@ Welcome to my GitHub! I'm a **results-driven software engineer** with expertise 
 
 ## 🌟 Featured Projects  
 
-### **🚀 [Solana Arbitrage Bot](https://github.com/cryptoking000/arbitrage-bot-for-solana/) ⭐**  
+### **🚀 [Solana Arbitrage Bot](https://github.com/ninjacryptotrader/arbitrage-bot-for-solana/) ⭐**  
 🔹 A cutting-edge arbitrage bot designed for the Solana blockchain to exploit price discrepancies across DEXs.  
 🔹 **Technologies:** Rust, Solana, Anchor, Web3.js, TypeScript  
-🔹 [⭐ Star & View Project](https://github.com/cryptoking000/arbitrage-bot-for-solana/)  
+🔹 [⭐ Star & View Project](https://github.com/ninjacryptotrader/arbitrage-bot-for-solana/)  
 
-### **🤖 [Telegram Trading Insight Bot](https://github.com/cryptoking000/trading-analytics-tg-bot/) ⭐**  
+### **🤖 [Telegram Trading Insight Bot](https://github.com/ninjacryptotrader/trading-analytics-tg-bot/) ⭐**  
 🔹 A Telegram-based bot providing market insights and virtual trading for Solana memecoins.  
 🔹 **Technologies:** Python, MongoDB, Telegram API, dexscreener.com API, pump.fun API  
-🔹 [⭐ Star & View Project](https://github.com/cryptoking000/trading-analytics-tg-bot/)  
+🔹 [⭐ Star & View Project](https://github.com/ninjacryptotrader/trading-analytics-tg-bot/)  
 
-### **⚡ [Arbitrage Bot (Aurora)](https://github.com/cryptoking000/arbitrage-bot-dex-aurora/) ⭐**  
+### **⚡ [Arbitrage Bot (Aurora)](https://github.com/ninjacryptotrader/arbitrage-bot-dex-aurora/) ⭐**  
 🔹 An arbitrage bot for the Aurora blockchain, enabling cross-DEX trades.  
 🔹 **Technologies:** Solidity, Hardhat, Node.js, JavaScript  
-🔹 [⭐ Star & View Project](https://github.com/cryptoking000/arbitrage-bot-dex-aurora/)  
+🔹 [⭐ Star & View Project](https://github.com/ninjacryptotrader/arbitrage-bot-dex-aurora/)  
 
-### **🚀 [MEV Bot (Solana)](https://github.com/cryptoking000/mev-bot-solana/) ⭐**  
+### **🚀 [MEV Bot (Solana)](https://github.com/ninjacryptotrader/mev-bot-solana/) ⭐**  
 🔹 A powerful MEV bot designed for transaction optimization on Solana.  
 🔹 **Technologies:** Rust, Solana, Web3.js, Anchor  
-🔹 [⭐ Star & View Project](https://github.com/cryptoking000/mev-bot-solana)  
+🔹 [⭐ Star & View Project](https://github.com/ninjacryptotrader/mev-bot-solana)  
 
 ---
 
@@ -51,13 +51,13 @@ Welcome to my GitHub! I'm a **results-driven software engineer** with expertise 
 
 If you find my projects useful, please consider:  
 
-- 🌟 **[Starring my projects](https://github.com/cryptoking000?tab=repositories)** to show your support. 
+- 🌟 **[Starring my projects](https://github.com/ninjacryptotrader?tab=repositories)** to show your support. 
 
 ---
 
 ## 🌐 Let's Connect!  
 
-- **GitHub:** [cryptoking000](https://github.com/cryptoking000)  
+- **GitHub:** [ninjacryptotrader](https://github.com/ninjacryptotrader)  
 
 ✨ _"Passionate about building innovative solutions that solve real-world problems."_ 🚀  
 
