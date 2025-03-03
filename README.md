@@ -51,8 +51,7 @@ Welcome to my GitHub! I'm a **results-driven software engineer** with expertise 
 
 If you find my projects useful, please consider:  
 
-- 🌟 **[Starring my projects](https://github.com/cryptoking000?tab=repositories)** to show your support.  
-- 🔥 **[Following me](https://github.com/cryptoking000?tab=followers)** to stay updated on my latest innovations.    
+- 🌟 **[Starring my projects](https://github.com/cryptoking000?tab=repositories)** to show your support. 
 
 ---
 
